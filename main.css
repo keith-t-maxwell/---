@@ -1,7 +1,27 @@
- .footer{
+ footer{
 	position: absolute;
 	bottom: 0;
 	width: 100%;
-	height: 120px;
+	height: 30px;
 	background: blue;
  } 
+ 
+ h1{
+	 font-family: 'Pacifico', cursive;
+ }
+ 
+ a{
+	 font-family: 'Boogaloo', cursive;
+ }
+ 
+ 
+ body{
+	 height:100vh;
+	 display:flex;
+	 flex-direction:column;
+	 background-color: yellow;
+ }
+ 
+ article{
+	 flex-grow:2;
+ }
