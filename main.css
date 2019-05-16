@@ -25,3 +25,7 @@
  article{
 	 flex-grow:2;
  }
+ 
+ .my_work_item_photo img{
+	max-width:60%;
+}
